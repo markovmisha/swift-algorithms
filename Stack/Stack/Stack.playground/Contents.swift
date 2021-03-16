@@ -37,3 +37,11 @@ struct Stack<T: Equatable> {
         return array.last
     }
 }
+
+var stack = Stack<Int>()
+
+stack.push(10)
+stack.push(3)
+stack.push(57)
+stack.pop()
+stack.pop()
