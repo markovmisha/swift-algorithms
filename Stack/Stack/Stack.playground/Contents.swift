@@ -45,3 +45,12 @@ stack.push(3)
 stack.push(57)
 stack.pop()
 stack.pop()
+
+func tests() {
+    assert(!stack.isEmpty, "⚠️ Stack is empty!")
+    assert(stack.top != nil, "⚠️ Last element doesn't exist!")
+    stack.clear()
+    assert(stack.isEmpty, "⚠️ Stack isn't empty!")
+}
+
+tests()
