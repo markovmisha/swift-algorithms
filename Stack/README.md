@@ -1,3 +1,3 @@
 # Stack
 
-![](https://i.imgur.com/h4U4GgY.png)
+[![stack.png](https://i.postimg.cc/jdzkdHjX/stack.png)](https://postimg.cc/Tp3ctWgL)
